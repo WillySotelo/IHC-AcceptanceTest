@@ -1,3 +1,4 @@
+Feature: HU21 - Como dueño de tienda o bodega deseo registrarme para ingresar a la app
 Scenario: Dirigirse a la ventana de registro
   Given me encuentro en la pantalla de inicio de sesión de la app
   When haga clic en registrarme
