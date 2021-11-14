@@ -1,3 +1,4 @@
+Feature: HU09 - Como dueño de tienda o bodega deseo registrar el precio de mis ofertas para que mis clientes sepan cuánto cuesta cada oferta
 Scenario: Dirigirse a la pantalla de registro de ofertas
   Given me encuentro en la pantalla principal de registro de oferta de la app
   When haga clic en registrar precio de ofertas
