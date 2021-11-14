@@ -1,3 +1,4 @@
+Feature: HU02 - Como dueño de tienda o bodega deseo registrar la dirección de mi establecimiento manualmente para que mis clientes sepan cómo llegar a mi establecimiento
 Scenario: Registrar establecimiento manualmente
   Given me encuentro en la pantalla de selección de registro de la app
   When haga clic en registrar establecimiento manualmente
