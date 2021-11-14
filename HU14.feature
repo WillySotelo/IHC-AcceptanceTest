@@ -1,3 +1,4 @@
+Feature: HU14 - Como cliente deseo trazar una ruta personalizada para guiarme a mi comodidad
 Scenario: Elegir tipo de trazado de ruta
   Given me encuentro en la pantalla de la app
   When haba clic en trazar ruta
