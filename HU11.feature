@@ -1,3 +1,4 @@
+Feature: HU11 - Como cliente deseo localizar tiendas o bodegas lejanas para visitarlas en caso de que las que estén más cercanas no estén abiertas
 Scenario: Ingresar a la pantalla del mapa de la app
   Given me encuentro en la pantalla principal de la app
   When haga clic en localizar tiendas
