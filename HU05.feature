@@ -1,3 +1,4 @@
+Feature: 
 Scenario: Registrar stock
   Given me encuentro en la pantalla de registro de productos de la app
   When haga clic en registrar stock de los productos
