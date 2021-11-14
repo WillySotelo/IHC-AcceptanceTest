@@ -1,3 +1,4 @@
+Feature: HU13 - Como cliente deseo trazar una ruta automática para llegar a mi destino con mayor comodidad
 Scenario: Selección de trazado de ruta
   Given me encuentro en la pantalla del mapa de la app
   When haga clic en trazar ruta
