@@ -1,3 +1,4 @@
+Feature: HU24 - Como cliente deseo iniciar sesión para ingresar a la app
 Scenario: Iniciar sesion como cliente
   Given me encuentro en la pantalla de inicio de sesión de la app
   When ingrese mis datos y haga clic en iniciar sesión
