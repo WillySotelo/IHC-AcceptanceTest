@@ -1,3 +1,4 @@
+Feature: HU06 - Como dueño de tienda o bodega deseo registrar la caducidad de los productos para evitar problemas con mis clientes acerca de los productos
 Scenario: Abrir registro de fecha de caducidad de productos
   Given me encuentro en la pantalla de registro de productos de la app
   When haga clic en registrar fecha de caducidad
