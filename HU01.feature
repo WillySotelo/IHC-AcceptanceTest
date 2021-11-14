@@ -1,3 +1,4 @@
+Feature: HU01 - Como dueño de tienda o bodega deseo registrar la ubicación de mi establecimiento para que los clientes la ubiquen mejor
 Scenario: Activar cámara del celular en la app
   Given me encuentro en la pantalla de selección de registro de la app
   When haga clic en registrar establecimiento mediante código QR
