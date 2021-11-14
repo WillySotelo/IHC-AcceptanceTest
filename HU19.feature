@@ -1,3 +1,4 @@
+Feature: HU19 - Como cliente deseo registrar la ubicación de la tienda o bodega de mi interés en mi celular para visitarla en otra ocasión
 Scenario: Dirigirse a la pantalla del mapa
   Given me encuentro en la pantalla principal de la app
   When haga clic en localizar tiendas
