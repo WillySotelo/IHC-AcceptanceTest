@@ -1,3 +1,4 @@
+Feature: HU12 - Como cliente deseo localizar tiendas o bodegas recomendadas para visitarlas con altas expectativas
 Scenario: Localizar tiendas
   Given me encuentro en la pantalla principal de la app
   When haga clic en localizar tiendas
