@@ -1,3 +1,4 @@
+Feature: HU07 - Como dueño de tienda o bodega deseo registrar el tiempo de duración de mis ofertas para que mis clientes estén al tanto de hasta qué tiempo están disponibles
 Scenario: Pantalla de registro de ofertas
   Given me encuentro en la pantalla de registro de productos de la app
   When haga clic en registrar ofertas
