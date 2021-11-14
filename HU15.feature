@@ -1,3 +1,4 @@
+Feature: HU15 - Como cliente deseo puntuar la tienda o bodega para que el dueño sepa en qué mejorar
 Scenario: Dirigirse a la pantalla de calificación de tienda o bodega
   Given me encuentro en la pantalla principal del a app
   When haga clic en calificar tienda
