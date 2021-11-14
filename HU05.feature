@@ -1,4 +1,4 @@
-Feature: 
+Feature: HU05 - Como dueño de tienda o bodega deseo registrar el stock de mis productos para avisar que tengo stock disponible
 Scenario: Registrar stock
   Given me encuentro en la pantalla de registro de productos de la app
   When haga clic en registrar stock de los productos
