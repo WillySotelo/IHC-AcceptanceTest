@@ -1,3 +1,4 @@
+Feature: HU23 - Como cliente deseo registrarme para ingresar a la app con mis datos
 Scenario: Dirigirse a la ventana de registro de usuario de la app
   Given me encuentro en la pantalla de inicio de sesión de la app
   When haga clic en registrarme
