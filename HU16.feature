@@ -1,3 +1,4 @@
+Feature: HU16 - Como cliente deseo realizar comentarios acerca de las tiendas o bodegas para recomendar o criticar
 Scenario: Dirigirse a la pantalla de calificación de tienda o bodega
   Given me encuentro en la pantalla principal de la app
   When haga clic en calificar tienda
