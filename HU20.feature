@@ -1,3 +1,4 @@
+Feature: HU20 - Como cliente deseo visualizar las tiendas de interés que marqué para visitarlas cuando pueda
 Scenario: Dirigirse a la pantalla del mapa
   Given me encuentro en la pantalla principal de la ap
   When haga clic en visualizar tiendas
